@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="144" height="123" viewBox="0 0 144 123">
+  <defs>
+    <clipPath id="clip-logo_3">
+      <rect width="144" height="123"/>
+    </clipPath>
+  </defs>
+  <g id="logo_3" data-name="logo – 3" clip-path="url(#clip-logo_3)">
+    <path id="路径_1" data-name="路径 1" d="M100.672,179.57v90.168H212.035V179.57H190.348v70.48h-22.98V179.57H143.918v70.48H121V179.57Z" transform="translate(-94.344 -153)" fill="#fff" stroke="#000" stroke-width="1"/>
+    <path id="路径_2" data-name="路径 2" d="M102.156,179.57v90.168H213.99V179.57H190.348v70.48h-22.98V179.57H143.918v70.48H122V179.57Z" transform="translate(239.828 277.238) rotate(180)" fill="#2b87dc" stroke="#000" stroke-width="1"/>
+    <line id="直线_1" data-name="直线 1" y1="19.07" x2="19.828" transform="translate(6.328 7.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="5 5"/>
+    <line id="直线_2" data-name="直线 2" y1="19.07" x2="19.828" transform="translate(117.691 97.668)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="5 5"/>
+    <line id="直线_3" data-name="直线 3" y1="19.07" x2="19.828" transform="translate(117.691 7.5)" fill="none" stroke="#fff" stroke-width="1" stroke-dasharray="5 5"/>
+  </g>
+</svg>

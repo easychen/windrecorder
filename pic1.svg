@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1035" height="559" viewBox="0 0 1035 559">
+  <defs>
+    <clipPath id="clip-画板_3">
+      <rect width="1035" height="559"/>
+    </clipPath>
+  </defs>
+  <g id="画板_3" data-name="画板 – 3" clip-path="url(#clip-画板_3)">
+    <rect width="1035" height="559" fill="#fff"/>
+    <g id="组_26" data-name="组 26" transform="translate(-45 -50)">
+      <rect id="矩形_23" data-name="矩形 23" width="684" height="392" transform="translate(348 167)" fill="#f4f4f4"/>
+      <g id="组_22" data-name="组 22" transform="translate(697 129)">
+        <rect id="矩形_22" data-name="矩形 22" width="256" height="95" rx="10" transform="translate(50 85)" fill="#b9d6ff"/>
+        <text id="Browser" transform="translate(80 152)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">Browser</tspan></text>
+      </g>
+      <g id="组_24" data-name="组 24" transform="translate(360 129)">
+        <g id="组_25" data-name="组 25" transform="translate(29)">
+          <rect id="矩形_22-2" data-name="矩形 22" width="138" height="95" rx="10" transform="translate(58 86)" fill="#b9d6ff"/>
+          <text id="API" transform="translate(79 151)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">API</tspan></text>
+        </g>
+      </g>
+      <g id="组_23" data-name="组 23" transform="translate(697 328)">
+        <rect id="矩形_22-3" data-name="矩形 22" width="256" height="95" rx="10" transform="translate(50 85)" fill="#b9d6ff"/>
+        <text id="ffmpeg" transform="translate(91 149)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">ffmpeg</tspan></text>
+      </g>
+      <line id="直线_17" data-name="直线 17" x2="363.5" transform="translate(83.5 251.5)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_22" data-name="直线 22" x2="162" transform="translate(585 251.5)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_26" data-name="直线 26" x2="167" y2="152" transform="translate(580 309)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_23" data-name="直线 23" y1="15.5" x2="19" transform="translate(585 236)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_27" data-name="直线 27" x2="25" transform="translate(722 461)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_28" data-name="直线 28" y2="20" transform="translate(580 309)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_24" data-name="直线 24" x1="16.5" y1="15" transform="translate(430.5 236.5)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_25" data-name="直线 25" x1="16.5" y1="15" transform="translate(430.5 265.5)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <line id="直线_18" data-name="直线 18" x2="363.5" transform="translate(83.5 280.5)" fill="none" stroke="#2b87dc" stroke-width="3"/>
+      <text id="http_80" data-name="http 80" transform="translate(112 230)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">http 80</tspan></text>
+      <text id="Container" transform="translate(574 134)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">Container</tspan></text>
+      <text id="http_80-2" data-name="http 80" transform="translate(600 295)" fill="#2b87dc" font-size="36" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">http 80</tspan></text>
+      <text id="Javascript" transform="translate(612 235)" fill="#2b87dc" font-size="24" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">Javascript</tspan></text>
+      <text id="vnc_5900" data-name="vnc 5900" transform="translate(112 339)" fill="#2b87dc" font-size="48" font-family="HiraginoSansGB-W3, Hiragino Sans GB"><tspan x="0" y="0">vnc 5900</tspan></text>
+    </g>
+  </g>
+</svg>
