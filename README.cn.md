@@ -1,5 +1,23 @@
 # Wind Recorder
 
+## Wind Recorder 短版介绍
+
+Wind Recorder 是一个用来录制「自播放网页」的 docker 镜像。你可以通过快速测试先体验一下。
+
+首先搭建一个「自播放网页」：
+
+1. cd demo && yarn install && yarn start
+
+运行 docker 命令：
+
+1. 打开 demo.sh 
+2. 修改其中的 `dd.ftqq.com` 为局域网IP 
+3. 运行命令 bash demo.sh
+
+运行完成后就可以在根目录下查看录制好的视频了。点这里可以直接查看[录制好的视频](demo.mp4)。
+
+
+
 ## 什么是 Wind Recorder
 
 ![](logo.svg) 

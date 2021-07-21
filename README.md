@@ -2,6 +2,22 @@
 
 [中文说明](README.cn.md)
 
+## TLDR
+
+Wind Recorder is a docker image for recording "self-playing web pages". You can try it out with a quick test.
+
+First build a "self-playing web page": 
+
+1. cd demo && yarn install && yarn start
+
+Run the docker command: 
+
+1. open demo.sh 
+2. change `dd.ftqq.com` to be the LAN IP 
+3. Run the command bash demo.sh
+
+After running, you can view the recorded video in the root directory.Click here to view [recorded video](demo.mp4) directly.
+
 ## What is Wind Recorder
 
 ![](logo.svg) 
