@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 import axios from 'axios';
+import anime from 'animejs/lib/anime.es.js';
 
 class App extends Component {
 
@@ -13,6 +14,15 @@ class App extends Component {
     this.axios.defaults.timeout = 500;
     window.setTimeout( ()=>this.start(), 1000 );
     window.setTimeout( ()=>this.stop(), 9000 );
+    anime({
+      targets:'.App-link',
+      // translateX: 270,
+      translateY: 100,
+      loop: true,
+      // easing: 'easeInOutSine',
+      autoplay: true,
+    });
+  
   }
 
   async start()
