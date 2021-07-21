@@ -19,6 +19,9 @@ docker run --rm -p 5900:5900 -p 80:80 -v "$(pwd):/data" easychen/windrec:latest 
 
 将以上命令中的 `https://video.windmark.pro` 替换为要录制的自动播放网页URL即可。
 
+录制效果可以查看这个视频 → [WindMark.pro使用教学](https://www.bilibili.com/video/BV1sb4y167Mh/)
+
+
 ## Wind Recorder 的工作原理
 
 ![](pic1.svg)

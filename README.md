@@ -1,6 +1,6 @@
 # WindRecorder
 
-[README.cn.md](中文说明)
+[中文说明](README.cn.md)
 
 ## What is Wind Recorder
 
@@ -20,6 +20,8 @@ docker run --rm -p 5900:5900 -p 80:80 -v "$(pwd):/data" easychen/windrec:latest 
 ```
 
 Just replace `https://video.windmark.pro` in the above command with the URL of the autoplay page you want to record.
+
+The recording effect can be seen in this video → [How to use WindMark.pro ](https://youtu.be/BpJ5O4dILUg)
 
 ## How Wind Recorder works
 
