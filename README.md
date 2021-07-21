@@ -23,6 +23,9 @@ Just replace `https://video.windmark.pro` in the above command with the URL of t
 
 The recording effect can be seen in this video → [How to use WindMark.pro ](https://youtu.be/BpJ5O4dILUg)
 
+![](/video.us.png)
+
+
 ## How Wind Recorder works
 
 ![](pic1.svg)
