@@ -2,7 +2,7 @@
 
 ## Wind Recorder 短版介绍
 
-Wind Recorder 是一个用来录制「自播放网页」的 docker 镜像。你可以通过快速测试先体验一下。
+Wind Recorder 是一个用来录制「[自播放网页](https://github.com/easychen/autoplay-web-specification)」的 docker 镜像。你可以通过快速测试先体验一下。
 
 首先搭建一个「自播放网页」：
 

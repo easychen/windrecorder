@@ -58,7 +58,7 @@ app.get('/stop', function (req, res) {
         process.kill(process.pid,'SIGTERM');
         process.exit();
     }, 3000 );
-    res.send('stop in 3 seconds');
+    res.json({"message":"done","detail":"stopping in 3 seconds"});
 });
 
 app.get('/start', function (req, res) {
@@ -108,7 +108,7 @@ app.get('/start', function (req, res) {
     });
 
     console.log(`[recording process] start recording`);
-    res.send('start');
+    res.json({"message":"done"});
 } );
 
 app.listen(80);
